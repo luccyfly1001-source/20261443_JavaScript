@@ -1,0 +1,10 @@
+        body {
+            text-align:center;
+        }
+        #heading {
+             color: rgb(15, 194, 45);
+        }
+        #text {
+            color: gray;
+            font-size: 15px;
+        }
